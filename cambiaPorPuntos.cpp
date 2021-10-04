@@ -45,7 +45,7 @@ int main (){
 				if (q%2== 0){
 					cout<<"  ";																	//¤
 				}else{
-					cout<<"@ ";
+					cout<<"0 ";
 				}
 				
 				
